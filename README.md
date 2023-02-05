@@ -5,14 +5,14 @@
 </div>
   
 ## 👋 Welcome to my github profile !
-Hello! I'm a student studying to becoming an IoT Programmer!
+Hello! I'm a student studying to become an IoT Programmer!
   <br/>
 
-## :star: SNS
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+## 🌟 SNS
+<img src="https://img.shields.io/badge/instagram%20-E4405F?style=flat-square&logo=instagram&logoColor=white">
   <br/> 
-
-## :email: E-mail
+  
+## 📧: E-mail
 tlxmscksals@naver.com
   <br/>
   
@@ -24,7 +24,7 @@ tlxmscksals@naver.com
 </div>
   <br/>
   
-##  ✏️Study Log
+## ✏️Study Log
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ng999&layout=compact)
   
