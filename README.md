@@ -4,27 +4,27 @@
   
 </div>
   
-#### 👋 Welcome to my github profile !
+## 👋 Welcome to my github profile !
 Hello! I'm a student studying to becoming an IoT Programmer!
   <br/>
 
-#### :star: SNS
+## :star: SNS
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  <br/>
+  <br/> 
 
-#### :email: E-mail
+## :email: E-mail
 tlxmscksals@naver.com
   <br/>
   
-#### 📋Once I've Used
+## 📋Once I've Used
 <div align="left">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/github%20-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Python%20-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode%20-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
 </div>
   <br/>
   
-####  ✏️Study Log
+##  ✏️Study Log
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ng999&layout=compact)
   
