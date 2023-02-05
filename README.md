@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent)
-![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?color=_custom_gradient)
