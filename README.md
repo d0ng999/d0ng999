@@ -1,13 +1,16 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=afeeee&height=150&section=hearder&text=Welcome!&fontColor=444444&fontSize=50&animation=fadeIn&fontAlignY=37)
+![header](https://capsule-render.vercel.app/api?type=waving&color=daa520&height=230&section=hearder&text=Welcome&desc=Dong's&nbsp;Github&nbsp;Profile&descSize=19&descAlignY=51&descAlign=57&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=37)
+  
+#### 👋 Welcome to my github profile !
+  
+  <br/>
   
 #### 📋Once I've Used
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the badge&logo=VisualStudioCode&logoColor=white">
 
-  <br/>
   <br/>
 
 ####  ✏️Study Log
