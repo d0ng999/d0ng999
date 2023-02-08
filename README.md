@@ -21,6 +21,7 @@ tlxmscksals@naver.com
 <img src="https://img.shields.io/badge/github%20-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Python%20-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode%20-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter%20-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </div>
   <br/>
   
