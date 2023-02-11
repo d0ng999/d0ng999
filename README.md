@@ -18,6 +18,7 @@ tlxmscksals@naver.com
   <br/>
   
 ## 📋Once I've Used
+
 <div align="left">
 <img src="https://img.shields.io/badge/github%20-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Python%20-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -38,8 +39,6 @@ tlxmscksals@naver.com
   
 ## 🖥️ Project Results
 
-AddressBook Making Project
+1. **AddressBook Making Project**
+- [Source Code](https://github.com/d0ng999/Address-Book-Project/blob/main/AddressBook_Project/project.py)
 <img width = "80%" src = "https://user-images.githubusercontent.com/123913349/218244659-31a72f5e-d1d9-45d1-a00f-1d63852420d3.gif"/>
-
-
-
