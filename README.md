@@ -9,6 +9,7 @@ Hello! I'm a student studying to become an IoT Programmer!
   <br/>
 
 ## 🌟 SNS
+<a href="https://www.instagram.com/d0ng_999/">
 <img src="https://img.shields.io/badge/instagram%20-E4405F?style=flat-square&logo=instagram&logoColor=white">
   <br/> 
   
@@ -31,10 +32,14 @@ tlxmscksals@naver.com
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-[![Solved.ac
-d0ng999](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac d0ng999](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlxmscksals)](https://solved.ac/tlxmscksals/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0ng999)](https://github.com/anuraghazra/github-readme-stats)
   
+## 🖥️ Project Results
+
+AddressBook Making Project
+<img width = "80%" src = "https://user-images.githubusercontent.com/123913349/218244659-31a72f5e-d1d9-45d1-a00f-1d63852420d3.gif"/>
+
 
 
