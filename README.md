@@ -6,6 +6,7 @@
   
 ## 👋 Welcome to my github profile !
 Hello! I'm a student studying to become an IoT Programmer!
+From 2023-01-30 ~ Current
   <br/>
 
 ## 🌟 SNS
