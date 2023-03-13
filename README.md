@@ -11,7 +11,7 @@ Hello! I'm a student studying to become an IoT Programmer!
 
 ## 🌟 SNS
 <a href="https://www.instagram.com/d0ng_999/">
-<img src="https://img.shields.io/badge/instagram%20-E4405F?style=flat-square&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/instagram%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <br/> 
   
 ## 📧: E-mail
@@ -21,11 +21,11 @@ tlxmscksals@naver.com
 ## 📋Once I've Used
 
 <div align="left">
-<img src="https://img.shields.io/badge/github%20-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Python%20-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode%20-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter%20-F37626?style=flat-square&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL%20-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   <br/>
   
