@@ -48,3 +48,6 @@ tlxmscksals@naver.com
 2. **AddressBook Making Project - Upgrade Ver.(Using DB & PyQt5)**
 - [Source Code](https://github.com/d0ng999/AddressBook-Project/blob/main/AddressBook_Project/addressProject.py)
 <img width = "80%" src = "https://github.com/d0ng999/AddressBook-Project/blob/main/project_Addr.gif"/>
+
+3. Naver OpenAPI Movie version - Coming soon
+4. Mini Project - BusStop - Coming Soon
