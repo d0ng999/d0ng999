@@ -41,13 +41,17 @@ tlxmscksals@naver.com
   
 ## 🖥️ Project Results
 
-1. **AddressBook Making Project (Only Console)**
+### 1. **AddressBook Making Project (Only Console)**
 - [Source Code](https://github.com/d0ng999/Address-Book-Project/blob/main/AddressBook_Project/project.py)
 <img width = "80%" src = "https://user-images.githubusercontent.com/123913349/218244659-31a72f5e-d1d9-45d1-a00f-1d63852420d3.gif"/>
   
-2. **AddressBook Making Project - Upgrade Ver.(Using DB & PyQt5)**
+### 2. **AddressBook Making Project - Upgrade Ver.(Using DB & PyQt5)**
 - [Source Code](https://github.com/d0ng999/AddressBook-Project/blob/main/AddressBook_Project/addressProject.py)
 <img width = "80%" src = "https://github.com/d0ng999/AddressBook-Project/blob/main/project_Addr.gif"/>
 
-3. Naver OpenAPI Movie version - Coming soon
+### 3. **Naver movie search App.(Using Naver OpenAPI)**
+  - [Source Code](https://github.com/d0ng999/Portfolio/blob/main/Naver_OpneAPI_Movie_Version/naverOpenAPI_movie.py)
+<img width = "80%" src = "https://github.com/d0ng999/Portfolio/blob/main/Naver_OpneAPI_Movie_Version/navermovie.png"/>
+
+  
 4. Mini Project - BusStop - Coming Soon
