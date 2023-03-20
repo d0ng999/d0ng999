@@ -55,3 +55,7 @@ tlxmscksals@naver.com
 
   
 4. Mini Project - BusStop - Coming Soon
+
+  
+-- 소스코드는 안보고 보통 결과물 사진을 많이 본다.
+-- 결과물을 일일이 안 올려도 된다. 그냥 주소를 입력해서 바로 들어가 볼 수 있도록 만드는 게 보기 편하다.
