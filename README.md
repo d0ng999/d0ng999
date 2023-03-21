@@ -34,25 +34,16 @@ tlxmscksals@naver.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ng999&layout=compact)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlxmscksals&count_bg=%2379C83D&title_bg=%230A0A0A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-[![Solved.ac d0ng999](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlxmscksals)](https://solved.ac/tlxmscksals/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0ng999)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 🖥️ Project Results
 
-### 1. **AddressBook Making Project (Only Console)**
-- [Source Code](https://github.com/d0ng999/Address-Book-Project/blob/main/AddressBook_Project/project.py)
-<img width = "80%" src = "https://user-images.githubusercontent.com/123913349/218244659-31a72f5e-d1d9-45d1-a00f-1d63852420d3.gif"/>
-  
-### 2. **AddressBook Making Project - Upgrade Ver.(Using DB & PyQt5)**
-- [Source Code](https://github.com/d0ng999/AddressBook-Project/blob/main/AddressBook_Project/addressProject.py)
-<img width = "80%" src = "https://github.com/d0ng999/AddressBook-Project/blob/main/project_Addr.gif"/>
+### 1. **AddressBook Making Project (Only Console)** [Portfolio](https://github.com/d0ng999/Portfolio/blob/main/README.md)
 
-### 3. **Naver movie search App.(Using Naver OpenAPI)**
-  - [Source Code](https://github.com/d0ng999/Portfolio/blob/main/Naver_OpneAPI_Movie_Version/naverOpenAPI_movie.py)
-<img width = "80%" src = "https://github.com/d0ng999/Portfolio/blob/main/Naver_OpneAPI_Movie_Version/navermovie.png"/>
+### 2. **AddressBook Making Project - Upgrade Ver.(Using DB & PyQt5)** [Portfolio](https://github.com/d0ng999/Portfolio/blob/main/README.md)
 
+### 3. **Naver movie search App.(Using Naver OpenAPI)** [Portfolio](https://github.com/d0ng999/Portfolio/blob/main/README.md)
   
 4. Mini Project - BusStop - Coming Soon
 
