@@ -1,10 +1,11 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=daa520&height=230&section=hearder&text=Welcome&desc=Dong's&nbsp;Github&nbsp;Profile&descSize=19&descAlignY=51&descAlign=57&fontColor=FFFFFF&fontSize=70&animation=fadeIn&fontAlignY=37)
+<img src="https://github.com/d0ng999/d0ng999/blob/main/Profile.gif">
   
 </div>
   
 ## 👋 Welcome to my github profile !
+
 Hello! I'm a student studying to become an IoT Programmer!
 **From 2023-01-30 ~ Current**
   <br/>
